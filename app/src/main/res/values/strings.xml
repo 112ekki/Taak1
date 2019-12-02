@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Ekkachai Phianprabthuk</string>
+
+    <string name="bio">Hi my name is Ekkachai.
+
+\n\nIk ben een student van CVO Lethas nu is veranderd naar Odisee. Ik studeer Informatica HBO5 en ik ben begonnen met mijn studie in 2015 in combinatie met werken.
+\nIk heb voor deze cursus gekozen omdat ik interesse heb in Informatica en carrière wil maken.
+\n\nDit zijn de cursussen die ik het afgelopen jaar heb gevolgd.
+
+
+\n\n•A1 Basiskennis: Als basiskennis leren we het apparaat kennen waarmee u als programmeur of netwerkbeheerder dagelijks wordt geconfronteerd.Na een duidelijk overzicht van de componenten krijgt u een solide basis over de interactieve werking van de verschillende componenten op een pc en een server. Je leert ook de werkingsprincipes van de taalsystemen kennen.
+
+
+\n\n•A2 Softwarepakketten: je leert Microsoft voor organisaties die het nieuwe werken willen gaan toepassen. Met Office 365 kunnen alle medewerkers altijd en overal beschikken over al hun documenten en andere informatie die zij nodig hebben. Office 365 combineert vertrouwde Microsoft Office-toepassingen (Word, Excel, PowerPoint, Outlook, Access, ...) met SharePoint, Skype voor bedrijven en Exchange.
+
+
+\n\n•A3 Communicatie- en organisatietechnieken: een PowerPoint presentatie maken en presenteertechnieken vergader- en rapporteringstechnieken hoe spelen we het vraag- en antwoordspel?
+ hoe een interview of sollicitatie tot een goed einde brengen hoe kan ik mijn boodschap onderbouwen, argumenteren en/of verdedigen
+ Verder zorgt deze module voor een ideale voorbereiding om je finale presentatie (projectwerk) tot een goed einde te brengen.Op deze manier krijg je de nodige bagage om voor een publiek te spreken.
+
+
+\n\n•A4 Multimedia: Je leert in deze module een website maken met HTML5 en CSS3, waarbij ook Javascript aan bod komt. Je leert hoe je gebruik kan maken van een CSS framework en als eindopdracht ontwikkel je zelfstandig een website.
+
+\n\n•A5 Programmeren 1: Je leert in deze module basis van automatisatie gelegd – er wordt vertrokken vanuit basisconcepten van programmatie. Vb Jquery, Bootstrap, Javascript, Angularjs, Json, HTML5….
+
+
+\n\n•A6 Programmeren 2: De basisprincipes die bij programmeren 1 geleerd werden, worden
+hier aan de hand van eenvoudige oefeningen geïllustreerd met een uitgebreidere programmeertaal in een front-end setting (bv Javascript of Typescript  in combinatie met Angular of ReactJs).
+
+
+\n\n•A7 IT-organisatie: Het vak IT-organisatie wordt opgesplitst in enerzijds de theoretische benadering van de bedrijfsorganisatieleer en anderzijds de praktische aanpak van een projectplanning. De nadruk ligt vooral op de organisatiestructuren en procestechnieken in een moderne IT-afdeling.
+
+\n\n•A8 Databanken: Tijdens deze module leer je de onderdelen van een gegevensbank kennen (tabel, record, enz ...) en je wordt vertrouwd met relationele databases. Je leert een informatieanalyse uitvoeren, het probleemdomein in een entiteit-relatie diagram (ERD) gieten en een logisch ontwerp maken. Je leert ook de verschillende normalisatiestappen uitvoeren.
+We zetten de theorie om in de praktijk met de SQL-syntax. De Structured Query Language (SQL) is de aangewezen programmeertaal om een databank samen te stellen en te beheren. Je leert databases en tabellen aanmaken, data-integriteit afdwingen met het toepassen van o.a. constraints, defaults, rules en indexen, en tenslotte gegevens opvragen uit de database.
+
+
+\n\n•A9 Datacommunicatie en netwerken: Deze cursus geeft je een overzicht van de netwerkindelingen en de principes van communicatiesystemen.
+Je krijgt inzicht in de verschillende modellen zoals het OSI-lagenmodel en TCP/IP, en je leert logische en fysische adressen onderscheiden. We maken je vertrouwd met brandende onderwerpen zoals internet, intranet, extranet en beveiliging.
+
+
+\n\n•A10 Netwerkbeheer 1: In dit onderdeel leer je op een accurate wijze een netwerk opzetten, onderhouden en beheren. Je bent in staat om een netwerk uit te tekenen en actieve componenten te implementeren. Praktisch leer je statische en default routes installeren en verschillende routing protocols activeren. Vlans worden in detail besproken en uitgebreid behandeld in de praktijklessen. Zo gaan we ook dieper in op DHCP access control list en NAT.
+
+
+\n\n•A11 Besturingssystemen: Vanuit een kort historisch overzicht waar we schetsen hoe besturingssystemen en hardware zijn geëvolueerd, gaan we over naar een praktische uitwerking van enkele basisconcepten. Linux Mint omgeving verschillende theoretische basisconcepten (processen, ineterproces communicatie, scheduling, in- en uitvoer, geheugenbeheer en bestandssystemen) toepassen of terugvinden.
+We bekijken welke virtuele installaties mogelijk zijn en hoe we deze kunnen toepassen of implemeneteren in onze eigen lesomgeving.
+
+
+\n\n•B1 Analyse: In deze module bekijken we het softwareontwikkelingsproces met nadruk op de analysefase.
+Je leert een probleemanalyse uitvoeren en in alle ontwikkelingsfasen doorlopen.
+We passen verschillende analysetechnieken toe waarbij we de nadruk leggen op UML (unified modeling language). De belangrijkste diagramtypes worden hiervoor bekeken: klassendiagrammen, toestandsdiagrammen, interactiediagrammen, object- en use-case-diagrammen.
+
+\nJe leert zowel de technische als functionele analyse van een softwaresysteem uitvoeren. Niet alleen de analysefase maar ook het verdere verloop van de Software Development Life Cycle van een project komt uitgebreid aan bod.
+
+\nSamen met de modules IT-organisatie en Communicatie- en organisatietechnieken geeft deze module je de mogelijkheid om probleemdomeinen in praktijksituaties te analyseren en uit te werken.
+
+
+
+\n\n•B2 Programmeren 3: Focus op het model van informatie - bouwen en programmeren met een informatiemodel en informatie-uitwisseling (die niet persé altijd in een databank zit).
+
+\n\n•C1 Beheer van databanken: In deze cursus leer je de elementaire vaardigheden van een databasebeheerder: installatie, configuratie, onderhoud, automatisatie, backup, recovery, security. Replicatie en een hoge beschikbaarheid van de database garanderen, vormen het sluitstuk van deze module.
+\nDe SQL-taal uit A8 databanken wordt herhaald en verder uitgebreid met indexen, views, triggers, en stored procedures.
+
+
+\n\n•C2 Netwerkbeheer 2: Het netwerkbesturingssysteem dat we in Netwerkbeheer 1 uitvoerig besproken hebben, wordt verder uitgediept. We gaan dieper in op de netwerkrollen van DNS, WINS,... Je leert de omgeving beveiligen door het gebruik van patching, policies, performance monitor,… Hierin leer je dezelfde componenten installeren (DNS, DHCP,...) als windows.
+\nJe leert meer over automatische deployment van computers en applicaties. We bekijken ook hoe je een webomgeving kan opzetten en deze via (eigen) certificaten beveiligd. Als laatste gaan we onze eigen mailomgeving opzetten.
+
+
+
+\n\n•C3 Datacommunicatie: Je leert diverse methoden en technieken die in lokale en (wereld)wijde netwerken gebruikt kunnen worden. Naast de typische terminologie leer je de verschillende communicatiemedia kennen en de soorten interfaces en protocollen voor het gebruik in LAN en WAN-technologieën: VLAN, PPP, PAP en CHAP, ISDN, DDR, IPV6, GRE tunnels, VPN.
+
+
+\n\nDit jaar  academie 2019-2020 ga ik studeren  Cyber Security-activiteiten, programma 4, WAN and Internet Services en portfolio Projectwerk.\n\n</string>
+    <string name="what_is_your_nickname">what is your nickname?</string>
+    <string name="done">Done</string>
+    <string name="ekkachai">Ekkachai</string>
+    <string name="ekkachai_p">Ekkachai P</string>
+
+</resources>
